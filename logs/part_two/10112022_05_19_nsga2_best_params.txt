@@ -1,0 +1,1 @@
+{"crossover_operator": "PCX", "mutation_operator": "POLY", "eta_pcx": 0.871923957266201, "zeta_pcx": 1.5791984781181523, "prob_poly": 0.2357692675183305, "eta_poly": 28.60318675213136, "pressure_tournament": 3}

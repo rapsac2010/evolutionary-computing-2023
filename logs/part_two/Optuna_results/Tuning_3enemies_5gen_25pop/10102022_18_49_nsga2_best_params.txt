@@ -1,0 +1,1 @@
+{"crossover_operator": "PCX", "mutation_operator": "GAUSS", "eta_pcx": 1.0646885392913406, "zeta_pcx": 1.3061945246569118, "sigma_gauss": 0.4430185578242234, "pressure_tournament": 2}

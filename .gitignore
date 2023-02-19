@@ -1,0 +1,8 @@
+venv/
+# *.csv
+*.code-workspace
+.vscode/settings.json
+__pycache__/
+evoman_framework/human_demo.py
+.idea/
+.vscode/
